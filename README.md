@@ -31,4 +31,6 @@ Successfully created dashboard. Future we can add sales prediction and make it l
 
 ### How to Run
 pip install pandas matplotlib
-python dashboard.py
+python dashboard.py  
+
+https://github.com/bhargavi2005-ml/sales_data.csv/edit/main/README.md
